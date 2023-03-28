@@ -1,0 +1,11 @@
+.image-sec {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.img {
+    width: 300px;
+    height: 400px;
+}
